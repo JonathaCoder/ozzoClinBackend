@@ -7,7 +7,7 @@ const routes = express.Router();
 const users = [{
   nome:'ozzoclinic',
   email:"clinicaozzoclin2005@gmail.com",
-  password:"20052023"
+  password:"senha"
 }]
 
 let ok = "";
